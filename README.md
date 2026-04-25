@@ -1,4 +1,4 @@
-# 购买VPN节点 - 4月18日18.5M/S|免费Shadowrocket节点/Clash节点/Singbox节点/SSR节点/V2ray节点节点推荐，Clash机场购买推荐  更新时间 2026-04-18 08:53:21
+# 购买VPN节点 - 4月25日18.9M/S|免费Clash节点/Shadowrocket节点/Singbox节点/SSR节点/V2ray节点节点推荐，Clash机场购买推荐  更新时间 2026-04-25 10:07:04
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://goumaivpn.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://goumaivpn.github.io/uploads/2026/04/0-20260418.yaml
-- https://goumaivpn.github.io/uploads/2026/04/1-20260418.yaml
-- https://goumaivpn.github.io/uploads/2026/04/2-20260418.yaml
-- https://goumaivpn.github.io/uploads/2026/04/3-20260418.yaml
-- https://goumaivpn.github.io/uploads/2026/04/4-20260418.yaml
+- https://goumaivpn.github.io/uploads/2026/04/0-20260425.yaml
+- https://goumaivpn.github.io/uploads/2026/04/1-20260425.yaml
+- https://goumaivpn.github.io/uploads/2026/04/2-20260425.yaml
+- https://goumaivpn.github.io/uploads/2026/04/3-20260425.yaml
+- https://goumaivpn.github.io/uploads/2026/04/4-20260425.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://goumaivpn.github.io/uploads/2026/04/0-20260418.txt
-- https://goumaivpn.github.io/uploads/2026/04/1-20260418.txt
-- https://goumaivpn.github.io/uploads/2026/04/2-20260418.txt
-- https://goumaivpn.github.io/uploads/2026/04/3-20260418.txt
-- https://goumaivpn.github.io/uploads/2026/04/4-20260418.txt
+- https://goumaivpn.github.io/uploads/2026/04/0-20260425.txt
+- https://goumaivpn.github.io/uploads/2026/04/1-20260425.txt
+- https://goumaivpn.github.io/uploads/2026/04/2-20260425.txt
+- https://goumaivpn.github.io/uploads/2026/04/3-20260425.txt
+- https://goumaivpn.github.io/uploads/2026/04/4-20260425.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://goumaivpn.github.io/uploads/2026/04/20260418.json
+- https://goumaivpn.github.io/uploads/2026/04/20260425.json
 
 ## 更多Clash节点订阅 ：
 
